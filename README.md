@@ -6,7 +6,8 @@ QueryTee is a natural language to SQL query system that allows store managers to
 
 
 
-!\[App Screenshot](app-screenshot.png)
+!\[App Screenshot]<img width="1920" height="1080" alt="app-screenshot" src="https://github.com/user-attachments/assets/c7091904-e66b-48db-9b13-88a1a2eea4f3" />
+
 
 
 
